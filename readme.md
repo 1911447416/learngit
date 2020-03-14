@@ -3,8 +3,5 @@
 
 **Now,the file have been changed.** 
 
-(the first test)
+第二次测试
 
-Creating a new branch.
-
-(2)
